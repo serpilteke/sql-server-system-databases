@@ -49,5 +49,6 @@ SQL Server, düzgün çalışabilmesi ve kullanıcı veritabanlarının sağlık
 
 ---
 
-🚨 Sistem veritabanlarının her biri, SQL Server altyapısının sağlıklı ve güvenli çalışması için temel taşlardır. Yedekleme, performans ve güvenlik açısından bu veritabanlarının yapısını ve rollerini iyi anlamak, sağlam bir SQL Server yönetimi için kritik öneme sahiptir.
+🚨 Sistem veritabanlarının her biri, SQL Server altyapısının sağlıklı ve güvenli çalışması için temel taşlardır. 
+   Yedekleme, performans ve güvenlik açısından bu veritabanlarının yapısını ve rollerini iyi anlamak, sağlam bir SQL Server yönetimi için kritik öneme sahiptir.
 
