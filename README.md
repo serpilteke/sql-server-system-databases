@@ -6,7 +6,7 @@
 
 - SQL Server kurulumu sırasında otomatik olarak oluşturulan bu veritabanları, genellikle 5 ana başlık altında incelenir:
 ---- 
-## 1. Master Veritabanı
+1. Master Veritabanı
 **SQL Server'ın beyni** olarak kabul edilir. Bu veritabanı olmadan SQL Server çalışamaz.
 
 - **Görevi:** Sunucunun yapılandırma ayarlarını, login bilgilerini, veritabanlarının konumlarını ve başlatma seçeneklerini saklar.
@@ -15,7 +15,7 @@
 
 ---
 
-## 2. Model Veritabanı
+2. Model Veritabanı
 **Yeni veritabanları için şablon** görevi görür.
 
 - **Görevi:** Oluşturulan her yeni veritabanı, model veritabanının bir kopyası olarak başlatılır.
@@ -24,7 +24,7 @@
 
 ---
 
-## 3. MSDB Veritabanı
+3. MSDB Veritabanı
 **SQL Server Agent işlemleri ve otomasyon süreçleri** için kullanılır.
 
 - **Görevi:** Zamanlanmış işler (jobs), uyarılar, operatörler ve SSIS paket geçmişi gibi yönetimsel bilgileri saklar.
@@ -33,7 +33,7 @@
 
 ---
 
-## 4. TempDB Veritabanı
+4. TempDB Veritabanı
 **Geçici işlemler ve veri** için kullanılan çalışma alanıdır.
 
 - **Görevi:** Geçici tablolar, dahili sorgu işlemleri ve sıralama verileri gibi geçici içerikleri saklar.
@@ -42,7 +42,7 @@
 
 ---
 
-## 5. Resource Veritabanı (`mssqlsystemresource`)
+5. Resource Veritabanı (`mssqlsystemresource`)
 **SQL Server'ın dahili sistem nesnelerini** barındıran özel bir veritabanıdır.
 
 - **Görevi:** Tüm sistem tabloları, görünümler ve prosedürler gibi iç nesneleri saklar.
