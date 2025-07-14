@@ -1,9 +1,11 @@
 # SQL Server Sistem Veritabanları
 
-SQL Server, düzgün çalışabilmesi ve kullanıcı veritabanlarının sağlıklı yönetilebilmesi için bazı temel sistem veritabanlarına ihtiyaç duyar. SQL Server kurulumu sırasında otomatik olarak oluşturulan bu veritabanları, genellikle 5 ana başlık altında incelenir:
-
+- SQL Server, düzgün çalışabilmesi ve kullanıcı veritabanlarının sağlıklı yönetilebilmesi için bazı temel sistem veritabanlarına ihtiyaç duyar. 
+- Sistem veritabanlarının her biri, SQL Server'ın sağlıklı ve güvenli çalışması için temel taşlardır.  
+- Yedekleme, performans ve güvenlik açısından bu veritabanlarının konumunu ve rollerini iyi anlayabilen biri, sağlam bir SQL Server yönetimi için kritik avantaj elde eder.
 ---
-
+- SQL Server kurulumu sırasında otomatik olarak oluşturulan bu veritabanları, genellikle 5 ana başlık altında incelenir:,
+- 
 ## 1. Master Veritabanı
 **SQL Server'ın beyni** olarak kabul edilir. Bu veritabanı olmadan SQL Server çalışamaz.
 
@@ -48,7 +50,4 @@ SQL Server, düzgün çalışabilmesi ve kullanıcı veritabanlarının sağlık
 - **Önemi:** SQL Server yükseltmeleri sırasında sistem nesnelerinin merkezi olarak yönetilebilmesini sağlar.
 
 ---
-
-🚨 Sistem veritabanlarının her biri, SQL Server altyapısının sağlıklı ve güvenli çalışması için temel taşlardır. 
-   Yedekleme, performans ve güvenlik açısından bu veritabanlarının yapısını ve rollerini iyi anlamak, sağlam bir SQL Server yönetimi için kritik öneme sahiptir.
 
